@@ -1,0 +1,17 @@
+{
+  "name": "muvis-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "ajv": "^6.11.0",
+    "dayjs": "^1.8.20",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.1",
+    "got": "^10.5.4",
+    "lowdb": "^1.0.0",
+    "morgan": "~1.9.1",
+    "string-natural-compare": "^3.0.1"
+  }
+}
