@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {},
   "dependencies": {
-    "ajv": "^6.11.0",
+    "ajv": "^6.12.3",
     "dayjs": "^1.8.20",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
